@@ -34,3 +34,7 @@ Then follow the menu - type a number and press Enter.
 ## What I found hard
 
 The trickiest part was the menu loop, especially handling bad input. If someone typed a letter instead of a number, the program used to either crash or quietly do nothing. Getting it to notice bad input and just re-ask the question, instead of breaking, took a few attempts. I ended up using a single loop that reads the menu choice, checks it's a valid number, and only then acts on it, which fixed the mess I had with my earlier two-loop version.
+
+## Blog post
+
+I wrote a detailed walkthrough of how the code works here: [I built a task tracker as my first real Python project] (https://dev.to/ljgeorgiou/i-built-a-task-tracker-as-my-first-real-python-project-heres-what-i-learned-4cbg)
