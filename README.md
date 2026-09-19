@@ -37,4 +37,5 @@ The trickiest part was the menu loop, especially handling bad input. If someone 
 
 ## Blog post
 
-I wrote a detailed walkthrough of how the code works here: [I built a task tracker as my first real Python project] (https://dev.to/ljgeorgiou/i-built-a-task-tracker-as-my-first-real-python-project-heres-what-i-learned-4cbg)
+I wrote a detailed walkthrough of how the code works here: 
+(https://dev.to/ljgeorgiou/i-built-a-task-tracker-as-my-first-real-python-project-heres-what-i-learned-4cbg)
